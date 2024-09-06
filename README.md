@@ -5,20 +5,29 @@ The study was conducted as part of a course on synthetic data and does not repre
 
 
 Modules
+
 mlxtend
 
 
 Libraries
 
 Pandas
+
 Random
+
 mlxtend
 
 
 Code
+
 !pip install mlxtend
+
 import pandas as pd
+
 import random
+
 from mlxtend.frequent_patterns import apriori
+
 from mlxtend.frequent_patterns import association_rules
+
 from apyori import apriori
