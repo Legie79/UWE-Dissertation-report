@@ -1,0 +1,185 @@
+,Item Set,Left Hand Side,Right Hand Side,Support,Confidence,Lift
+0,"('Feeling_anxious',)",(),"('Feeling_anxious',)",0.506,0.506,1.0
+1,"('Feeling_bored',)",(),"('Feeling_bored',)",0.495,0.495,1.0
+2,"('Feeling_lonely',)",(),"('Feeling_lonely',)",0.496,0.496,1.0
+3,"('Feeling_stressed',)",(),"('Feeling_stressed',)",0.46,0.46,1.0
+4,"('Sleep_problems',)",(),"('Sleep_problems',)",0.46,0.46,1.0
+5,"('Worried_about_future',)",(),"('Worried_about_future',)",0.498,0.498,1.0
+6,"('Feeling_anxious', 'Feeling_bored')",(),"('Feeling_anxious', 'Feeling_bored')",0.242,0.242,1.0
+7,"('Feeling_anxious', 'Feeling_bored')","('Feeling_anxious',)","('Feeling_bored',)",0.242,0.47826086956521735,0.966183574879227
+8,"('Feeling_anxious', 'Feeling_bored')","('Feeling_bored',)","('Feeling_anxious',)",0.242,0.4888888888888889,0.966183574879227
+9,"('Feeling_lonely', 'Feeling_anxious')",(),"('Feeling_lonely', 'Feeling_anxious')",0.258,0.258,1.0
+10,"('Feeling_lonely', 'Feeling_anxious')","('Feeling_anxious',)","('Feeling_lonely',)",0.258,0.5098814229249012,1.027986739767946
+11,"('Feeling_lonely', 'Feeling_anxious')","('Feeling_lonely',)","('Feeling_anxious',)",0.258,0.5201612903225806,1.0279867397679459
+12,"('Feeling_stressed', 'Feeling_anxious')",(),"('Feeling_stressed', 'Feeling_anxious')",0.242,0.242,1.0
+13,"('Feeling_stressed', 'Feeling_anxious')","('Feeling_anxious',)","('Feeling_stressed',)",0.242,0.47826086956521735,1.0396975425330812
+14,"('Feeling_stressed', 'Feeling_anxious')","('Feeling_stressed',)","('Feeling_anxious',)",0.242,0.5260869565217391,1.0396975425330812
+15,"('Sleep_problems', 'Feeling_anxious')",(),"('Sleep_problems', 'Feeling_anxious')",0.231,0.231,1.0
+16,"('Sleep_problems', 'Feeling_anxious')","('Feeling_anxious',)","('Sleep_problems',)",0.231,0.4565217391304348,0.9924385633270322
+17,"('Sleep_problems', 'Feeling_anxious')","('Sleep_problems',)","('Feeling_anxious',)",0.231,0.5021739130434782,0.9924385633270321
+18,"('Feeling_anxious', 'Worried_about_future')",(),"('Feeling_anxious', 'Worried_about_future')",0.252,0.252,1.0
+19,"('Feeling_anxious', 'Worried_about_future')","('Feeling_anxious',)","('Worried_about_future',)",0.252,0.4980237154150198,1.0000476213153007
+20,"('Feeling_anxious', 'Worried_about_future')","('Worried_about_future',)","('Feeling_anxious',)",0.252,0.5060240963855421,1.0000476213153007
+21,"('Feeling_lonely', 'Feeling_bored')",(),"('Feeling_lonely', 'Feeling_bored')",0.245,0.245,1.0
+22,"('Feeling_lonely', 'Feeling_bored')","('Feeling_bored',)","('Feeling_lonely',)",0.245,0.494949494949495,0.9978820462691431
+23,"('Feeling_lonely', 'Feeling_bored')","('Feeling_lonely',)","('Feeling_bored',)",0.245,0.4939516129032258,0.997882046269143
+24,"('Feeling_stressed', 'Feeling_bored')",(),"('Feeling_stressed', 'Feeling_bored')",0.233,0.233,1.0
+25,"('Feeling_stressed', 'Feeling_bored')","('Feeling_bored',)","('Feeling_stressed',)",0.233,0.47070707070707074,1.023276240667545
+26,"('Feeling_stressed', 'Feeling_bored')","('Feeling_stressed',)","('Feeling_bored',)",0.233,0.5065217391304347,1.0232762406675449
+27,"('Sleep_problems', 'Feeling_bored')",(),"('Sleep_problems', 'Feeling_bored')",0.22,0.22,1.0
+28,"('Sleep_problems', 'Feeling_bored')","('Feeling_bored',)","('Sleep_problems',)",0.22,0.4444444444444445,0.9661835748792271
+29,"('Sleep_problems', 'Feeling_bored')","('Sleep_problems',)","('Feeling_bored',)",0.22,0.47826086956521735,0.966183574879227
+30,"('Worried_about_future', 'Feeling_bored')",(),"('Feeling_bored', 'Worried_about_future')",0.237,0.237,1.0
+31,"('Worried_about_future', 'Feeling_bored')","('Feeling_bored',)","('Worried_about_future',)",0.237,0.47878787878787876,0.9614214433491541
+32,"('Worried_about_future', 'Feeling_bored')","('Worried_about_future',)","('Feeling_bored',)",0.237,0.4759036144578313,0.9614214433491541
+33,"('Feeling_lonely', 'Feeling_stressed')",(),"('Feeling_lonely', 'Feeling_stressed')",0.225,0.225,1.0
+34,"('Feeling_lonely', 'Feeling_stressed')","('Feeling_lonely',)","('Feeling_stressed',)",0.225,0.45362903225806456,0.9861500701262272
+35,"('Feeling_lonely', 'Feeling_stressed')","('Feeling_stressed',)","('Feeling_lonely',)",0.225,0.4891304347826087,0.9861500701262272
+36,"('Feeling_lonely', 'Sleep_problems')",(),"('Feeling_lonely', 'Sleep_problems')",0.224,0.224,1.0
+37,"('Feeling_lonely', 'Sleep_problems')","('Feeling_lonely',)","('Sleep_problems',)",0.224,0.45161290322580644,0.9817671809256662
+38,"('Feeling_lonely', 'Sleep_problems')","('Sleep_problems',)","('Feeling_lonely',)",0.224,0.4869565217391304,0.9817671809256662
+39,"('Feeling_lonely', 'Worried_about_future')",(),"('Feeling_lonely', 'Worried_about_future')",0.252,0.252,1.0
+40,"('Feeling_lonely', 'Worried_about_future')","('Feeling_lonely',)","('Worried_about_future',)",0.252,0.5080645161290323,1.0202098717450447
+41,"('Feeling_lonely', 'Worried_about_future')","('Worried_about_future',)","('Feeling_lonely',)",0.252,0.5060240963855421,1.0202098717450447
+42,"('Sleep_problems', 'Feeling_stressed')",(),"('Sleep_problems', 'Feeling_stressed')",0.224,0.224,1.0
+43,"('Sleep_problems', 'Feeling_stressed')","('Feeling_stressed',)","('Sleep_problems',)",0.224,0.4869565217391304,1.0586011342155008
+44,"('Sleep_problems', 'Feeling_stressed')","('Sleep_problems',)","('Feeling_stressed',)",0.224,0.4869565217391304,1.0586011342155008
+45,"('Feeling_stressed', 'Worried_about_future')",(),"('Feeling_stressed', 'Worried_about_future')",0.228,0.228,1.0
+46,"('Feeling_stressed', 'Worried_about_future')","('Feeling_stressed',)","('Worried_about_future',)",0.228,0.49565217391304345,0.9952854897852278
+47,"('Feeling_stressed', 'Worried_about_future')","('Worried_about_future',)","('Feeling_stressed',)",0.228,0.45783132530120485,0.9952854897852279
+48,"('Sleep_problems', 'Worried_about_future')",(),"('Sleep_problems', 'Worried_about_future')",0.212,0.212,1.0
+49,"('Sleep_problems', 'Worried_about_future')","('Sleep_problems',)","('Worried_about_future',)",0.212,0.46086956521739125,0.9254408940108259
+50,"('Sleep_problems', 'Worried_about_future')","('Worried_about_future',)","('Sleep_problems',)",0.212,0.4257028112449799,0.9254408940108257
+51,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')",(),"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')",0.12,0.12,1.0
+52,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious',)","('Feeling_lonely', 'Feeling_bored')",0.12,0.23715415019762845,0.9679761232556263
+53,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_bored',)","('Feeling_lonely', 'Feeling_anxious')",0.12,0.24242424242424243,0.9396288466055908
+54,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_lonely',)","('Feeling_anxious', 'Feeling_bored')",0.12,0.24193548387096772,0.9997334044254865
+55,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious', 'Feeling_bored')","('Feeling_lonely',)",0.12,0.49586776859504134,0.9997334044254865
+56,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_lonely', 'Feeling_anxious')","('Feeling_bored',)",0.12,0.46511627906976744,0.9396288466055908
+57,"('Feeling_lonely', 'Feeling_anxious', 'Feeling_bored')","('Feeling_lonely', 'Feeling_bored')","('Feeling_anxious',)",0.12,0.4897959183673469,0.9679761232556263
+58,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')",(),"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')",0.12,0.12,1.0
+59,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious',)","('Feeling_stressed', 'Feeling_bored')",0.12,0.23715415019762845,1.0178289708052723
+60,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_bored',)","('Feeling_stressed', 'Feeling_anxious')",0.12,0.24242424242424243,1.0017530678687705
+61,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_stressed',)","('Feeling_anxious', 'Feeling_bored')",0.12,0.2608695652173913,1.0779734099892202
+62,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious', 'Feeling_bored')","('Feeling_stressed',)",0.12,0.49586776859504134,1.0779734099892202
+63,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_stressed', 'Feeling_anxious')","('Feeling_bored',)",0.12,0.49586776859504134,1.0017530678687703
+64,"('Feeling_stressed', 'Feeling_anxious', 'Feeling_bored')","('Feeling_stressed', 'Feeling_bored')","('Feeling_anxious',)",0.12,0.5150214592274678,1.0178289708052723
+65,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')",(),"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')",0.104,0.104,1.0
+66,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious',)","('Sleep_problems', 'Feeling_bored')",0.104,0.20553359683794464,0.9342436219906575
+67,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Feeling_bored',)","('Sleep_problems', 'Feeling_anxious')",0.104,0.2101010101010101,0.909528182255455
+68,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Sleep_problems',)","('Feeling_anxious', 'Feeling_bored')",0.104,0.2260869565217391,0.9342436219906575
+69,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious', 'Feeling_bored')","('Sleep_problems',)",0.104,0.4297520661157025,0.9342436219906576
+70,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Sleep_problems', 'Feeling_anxious')","('Feeling_bored',)",0.104,0.4502164502164502,0.909528182255455
+71,"('Sleep_problems', 'Feeling_anxious', 'Feeling_bored')","('Sleep_problems', 'Feeling_bored')","('Feeling_anxious',)",0.104,0.4727272727272727,0.9342436219906576
+72,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')",(),"('Feeling_bored', 'Feeling_anxious', 'Worried_about_future')",0.118,0.118,1.0
+73,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious',)","('Feeling_bored', 'Worried_about_future')",0.118,0.23320158102766797,0.9839729157285568
+74,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Feeling_bored',)","('Feeling_anxious', 'Worried_about_future')",0.118,0.23838383838383836,0.9459676126342792
+75,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Worried_about_future',)","('Feeling_anxious', 'Feeling_bored')",0.118,0.2369477911646586,0.9791231039861926
+76,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious', 'Feeling_bored')","('Worried_about_future',)",0.118,0.48760330578512395,0.9791231039861927
+77,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Feeling_anxious', 'Worried_about_future')","('Feeling_bored',)",0.118,0.4682539682539682,0.9459676126342792
+78,"('Worried_about_future', 'Feeling_anxious', 'Feeling_bored')","('Worried_about_future', 'Feeling_bored')","('Feeling_anxious',)",0.118,0.4978902953586498,0.9839729157285569
+79,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')",(),"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')",0.115,0.115,1.0
+80,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_anxious',)","('Feeling_lonely', 'Feeling_stressed')",0.115,0.2272727272727273,1.0101010101010102
+81,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_lonely',)","('Feeling_stressed', 'Feeling_anxious')",0.115,0.23185483870967744,0.958077845907758
+82,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_stressed',)","('Feeling_lonely', 'Feeling_anxious')",0.115,0.25,0.9689922480620154
+83,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_lonely', 'Feeling_anxious')","('Feeling_stressed',)",0.115,0.44573643410852715,0.9689922480620154
+84,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_stressed', 'Feeling_anxious')","('Feeling_lonely',)",0.115,0.47520661157024796,0.958077845907758
+85,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_lonely', 'Feeling_stressed')","('Feeling_anxious',)",0.115,0.5111111111111111,1.01010101010101
+86,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')",(),"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')",0.122,0.122,1.0
+87,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Feeling_anxious',)","('Feeling_lonely', 'Sleep_problems')",0.122,0.24110671936758893,1.076369282891022
+88,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Feeling_lonely',)","('Sleep_problems', 'Feeling_anxious')",0.122,0.24596774193548387,1.0647954196341294
+89,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Sleep_problems',)","('Feeling_lonely', 'Feeling_anxious')",0.122,0.2652173913043478,1.027974384900573
+90,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Feeling_lonely', 'Feeling_anxious')","('Sleep_problems',)",0.122,0.4728682170542635,1.027974384900573
+91,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Sleep_problems', 'Feeling_anxious')","('Feeling_lonely',)",0.122,0.5281385281385281,1.0647954196341294
+92,"('Feeling_lonely', 'Sleep_problems', 'Feeling_anxious')","('Feeling_lonely', 'Sleep_problems')","('Feeling_anxious',)",0.122,0.5446428571428571,1.0763692828910219
+93,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')",(),"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')",0.128,0.128,1.0
+94,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious',)","('Feeling_lonely', 'Worried_about_future')",0.128,0.25296442687747034,1.0038270907836124
+95,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Feeling_lonely',)","('Feeling_anxious', 'Worried_about_future')",0.128,0.25806451612903225,1.0240655401945724
+96,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Worried_about_future',)","('Feeling_lonely', 'Feeling_anxious')",0.128,0.25702811244979923,0.9962329939914698
+97,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Feeling_lonely', 'Feeling_anxious')","('Worried_about_future',)",0.128,0.49612403100775193,0.9962329939914697
+98,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious', 'Worried_about_future')","('Feeling_lonely',)",0.128,0.5079365079365079,1.0240655401945724
+99,"('Feeling_lonely', 'Feeling_anxious', 'Worried_about_future')","('Feeling_lonely', 'Worried_about_future')","('Feeling_anxious',)",0.128,0.5079365079365079,1.0038270907836124
+100,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')",(),"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')",0.107,0.107,1.0
+101,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_anxious',)","('Sleep_problems', 'Feeling_stressed')",0.107,0.21146245059288538,0.9440287972896668
+102,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_stressed',)","('Sleep_problems', 'Feeling_anxious')",0.107,0.2326086956521739,1.0069640504423112
+103,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Sleep_problems',)","('Feeling_stressed', 'Feeling_anxious')",0.107,0.2326086956521739,0.961192957240388
+104,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Feeling_stressed', 'Feeling_anxious')","('Sleep_problems',)",0.107,0.44214876033057854,0.9611929572403881
+105,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Sleep_problems', 'Feeling_anxious')","('Feeling_stressed',)",0.107,0.4632034632034632,1.0069640504423112
+106,"('Sleep_problems', 'Feeling_stressed', 'Feeling_anxious')","('Sleep_problems', 'Feeling_stressed')","('Feeling_anxious',)",0.107,0.4776785714285714,0.9440287972896668
+107,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')",(),"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')",0.122,0.122,1.0
+108,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious',)","('Feeling_stressed', 'Worried_about_future')",0.122,0.24110671936758893,1.0574856112613549
+109,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Feeling_stressed',)","('Feeling_anxious', 'Worried_about_future')",0.122,0.2652173913043478,1.0524499654934436
+110,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Worried_about_future',)","('Feeling_stressed', 'Feeling_anxious')",0.122,0.24497991967871485,1.0123137176806398
+111,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Feeling_stressed', 'Feeling_anxious')","('Worried_about_future',)",0.122,0.5041322314049587,1.0123137176806398
+112,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious', 'Worried_about_future')","('Feeling_stressed',)",0.122,0.48412698412698413,1.0524499654934436
+113,"('Feeling_stressed', 'Feeling_anxious', 'Worried_about_future')","('Feeling_stressed', 'Worried_about_future')","('Feeling_anxious',)",0.122,0.5350877192982456,1.0574856112613549
+114,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')",(),"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')",0.103,0.103,1.0
+115,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious',)","('Sleep_problems', 'Worried_about_future')",0.103,0.20355731225296442,0.9601760011932284
+116,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Sleep_problems',)","('Feeling_anxious', 'Worried_about_future')",0.103,0.22391304347826085,0.888543823326432
+117,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Worried_about_future',)","('Sleep_problems', 'Feeling_anxious')",0.103,0.20682730923694778,0.895356317043064
+118,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Sleep_problems', 'Feeling_anxious')","('Worried_about_future',)",0.103,0.44588744588744583,0.895356317043064
+119,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Feeling_anxious', 'Worried_about_future')","('Sleep_problems',)",0.103,0.4087301587301587,0.888543823326432
+120,"('Sleep_problems', 'Feeling_anxious', 'Worried_about_future')","('Sleep_problems', 'Worried_about_future')","('Feeling_anxious',)",0.103,0.4858490566037736,0.9601760011932284
+121,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')",(),"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')",0.112,0.112,1.0
+122,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_bored',)","('Feeling_lonely', 'Feeling_stressed')",0.112,0.22626262626262628,1.005611672278339
+123,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_lonely',)","('Feeling_stressed', 'Feeling_bored')",0.112,0.22580645161290322,0.9691264017721167
+124,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_stressed',)","('Feeling_lonely', 'Feeling_bored')",0.112,0.2434782608695652,0.9937888198757764
+125,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_lonely', 'Feeling_bored')","('Feeling_stressed',)",0.112,0.4571428571428572,0.9937888198757765
+126,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_stressed', 'Feeling_bored')","('Feeling_lonely',)",0.112,0.48068669527896996,0.9691264017721168
+127,"('Feeling_lonely', 'Feeling_stressed', 'Feeling_bored')","('Feeling_lonely', 'Feeling_stressed')","('Feeling_bored',)",0.112,0.49777777777777776,1.005611672278339
+128,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')",(),"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')",0.108,0.108,1.0
+129,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Feeling_bored',)","('Feeling_lonely', 'Sleep_problems')",0.108,0.21818181818181817,0.9740259740259739
+130,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Feeling_lonely',)","('Sleep_problems', 'Feeling_bored')",0.108,0.21774193548387097,0.9897360703812317
+131,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Sleep_problems',)","('Feeling_lonely', 'Feeling_bored')",0.108,0.23478260869565215,0.95829636202307
+132,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Feeling_lonely', 'Feeling_bored')","('Sleep_problems',)",0.108,0.44081632653061226,0.9582963620230701
+133,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Sleep_problems', 'Feeling_bored')","('Feeling_lonely',)",0.108,0.4909090909090909,0.9897360703812317
+134,"('Feeling_lonely', 'Sleep_problems', 'Feeling_bored')","('Feeling_lonely', 'Sleep_problems')","('Feeling_bored',)",0.108,0.48214285714285715,0.974025974025974
+135,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')",(),"('Feeling_lonely', 'Feeling_bored', 'Worried_about_future')",0.124,0.124,1.0
+136,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Feeling_bored',)","('Feeling_lonely', 'Worried_about_future')",0.124,0.2505050505050505,0.9940676607343274
+137,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Feeling_lonely',)","('Feeling_bored', 'Worried_about_future')",0.124,0.25,1.0548523206751055
+138,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Worried_about_future',)","('Feeling_lonely', 'Feeling_bored')",0.124,0.24899598393574296,1.0163101385132365
+139,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Feeling_lonely', 'Feeling_bored')","('Worried_about_future',)",0.124,0.5061224489795918,1.0163101385132365
+140,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Worried_about_future', 'Feeling_bored')","('Feeling_lonely',)",0.124,0.5232067510548524,1.0548523206751057
+141,"('Feeling_lonely', 'Worried_about_future', 'Feeling_bored')","('Feeling_lonely', 'Worried_about_future')","('Feeling_bored',)",0.124,0.49206349206349204,0.9940676607343274
+142,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')",(),"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')",0.109,0.109,1.0
+143,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Feeling_bored',)","('Sleep_problems', 'Feeling_stressed')",0.109,0.2202020202020202,0.983044733044733
+144,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Feeling_stressed',)","('Sleep_problems', 'Feeling_bored')",0.109,0.23695652173913043,1.0770750988142292
+145,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Sleep_problems',)","('Feeling_stressed', 'Feeling_bored')",0.109,0.23695652173913043,1.0169807799962678
+146,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Feeling_stressed', 'Feeling_bored')","('Sleep_problems',)",0.109,0.4678111587982832,1.0169807799962678
+147,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Sleep_problems', 'Feeling_bored')","('Feeling_stressed',)",0.109,0.4954545454545454,1.0770750988142292
+148,"('Sleep_problems', 'Feeling_stressed', 'Feeling_bored')","('Sleep_problems', 'Feeling_stressed')","('Feeling_bored',)",0.109,0.48660714285714285,0.983044733044733
+149,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')",(),"('Feeling_stressed', 'Feeling_bored', 'Worried_about_future')",0.109,0.109,1.0
+150,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Feeling_bored',)","('Feeling_stressed', 'Worried_about_future')",0.109,0.2202020202020202,0.9657983342193869
+151,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Feeling_stressed',)","('Feeling_bored', 'Worried_about_future')",0.109,0.23695652173913043,0.9998165474224913
+152,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Worried_about_future',)","('Feeling_stressed', 'Feeling_bored')",0.109,0.21887550200803213,0.9393798369443439
+153,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Feeling_stressed', 'Feeling_bored')","('Worried_about_future',)",0.109,0.4678111587982832,0.9393798369443438
+154,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Worried_about_future', 'Feeling_bored')","('Feeling_stressed',)",0.109,0.45991561181434604,0.9998165474224914
+155,"('Feeling_stressed', 'Worried_about_future', 'Feeling_bored')","('Feeling_stressed', 'Worried_about_future')","('Feeling_bored',)",0.109,0.4780701754385965,0.9657983342193869
+156,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')",(),"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')",0.101,0.101,1.0
+157,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Feeling_lonely',)","('Sleep_problems', 'Feeling_stressed')",0.101,0.20362903225806453,0.9090581797235023
+158,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Feeling_stressed',)","('Feeling_lonely', 'Sleep_problems')",0.101,0.21956521739130436,0.9802018633540373
+159,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Sleep_problems',)","('Feeling_lonely', 'Feeling_stressed')",0.101,0.21956521739130436,0.9758454106280193
+160,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Feeling_lonely', 'Feeling_stressed')","('Sleep_problems',)",0.101,0.4488888888888889,0.9758454106280193
+161,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Feeling_lonely', 'Sleep_problems')","('Feeling_stressed',)",0.101,0.45089285714285715,0.9802018633540373
+162,"('Feeling_lonely', 'Feeling_stressed', 'Sleep_problems')","('Sleep_problems', 'Feeling_stressed')","('Feeling_lonely',)",0.101,0.45089285714285715,0.9090581797235023
+163,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')",(),"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')",0.115,0.115,1.0
+164,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Feeling_lonely',)","('Feeling_stressed', 'Worried_about_future')",0.115,0.23185483870967744,1.0169071873231466
+165,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Feeling_stressed',)","('Feeling_lonely', 'Worried_about_future')",0.115,0.25,0.9920634920634921
+166,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Worried_about_future',)","('Feeling_lonely', 'Feeling_stressed')",0.115,0.23092369477911648,1.0263275323516288
+167,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Feeling_lonely', 'Feeling_stressed')","('Worried_about_future',)",0.115,0.5111111111111111,1.0263275323516288
+168,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Feeling_lonely', 'Worried_about_future')","('Feeling_stressed',)",0.115,0.4563492063492064,0.9920634920634921
+169,"('Feeling_lonely', 'Feeling_stressed', 'Worried_about_future')","('Feeling_stressed', 'Worried_about_future')","('Feeling_lonely',)",0.115,0.5043859649122807,1.0169071873231466
+170,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')",(),"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')",0.107,0.107,1.0
+171,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Feeling_lonely',)","('Sleep_problems', 'Worried_about_future')",0.107,0.2157258064516129,1.0175745587340232
+172,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Sleep_problems',)","('Feeling_lonely', 'Worried_about_future')",0.107,0.2326086956521739,0.9230503795721187
+173,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Worried_about_future',)","('Feeling_lonely', 'Sleep_problems')",0.107,0.21485943775100402,0.9591939185312679
+174,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Feeling_lonely', 'Sleep_problems')","('Worried_about_future',)",0.107,0.4776785714285714,0.9591939185312679
+175,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Feeling_lonely', 'Worried_about_future')","('Sleep_problems',)",0.107,0.4246031746031746,0.9230503795721187
+176,"('Feeling_lonely', 'Sleep_problems', 'Worried_about_future')","('Sleep_problems', 'Worried_about_future')","('Feeling_lonely',)",0.107,0.5047169811320755,1.0175745587340232
+177,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')",(),"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')",0.104,0.104,1.0
+178,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Feeling_stressed',)","('Sleep_problems', 'Worried_about_future')",0.104,0.2260869565217391,1.0664479081214109
+179,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Sleep_problems',)","('Feeling_stressed', 'Worried_about_future')",0.104,0.2260869565217391,0.9916094584286802
+180,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Worried_about_future',)","('Sleep_problems', 'Feeling_stressed')",0.104,0.20883534136546184,0.9323006310958117
+181,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Sleep_problems', 'Feeling_stressed')","('Worried_about_future',)",0.104,0.46428571428571425,0.9323006310958117
+182,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Feeling_stressed', 'Worried_about_future')","('Sleep_problems',)",0.104,0.45614035087719296,0.9916094584286803
+183,"('Sleep_problems', 'Feeling_stressed', 'Worried_about_future')","('Sleep_problems', 'Worried_about_future')","('Feeling_stressed',)",0.104,0.49056603773584906,1.0664479081214109
