@@ -1,6 +1,7 @@
 # UWE-Dissertation-report
-This repository is created for submitting the python files and others requiremens.
-This study is conducted for the purpose of completion of a course on synthetic data and not representative of any real world data. 
+This repository is created for submitting Python files and other required materials. 
+
+The study was conducted as part of a course on synthetic data and does not represent real-world data. Details are intentionally withheld as the project is currently under evaluation.
 
 
 Modules
